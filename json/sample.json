@@ -1,0 +1,11 @@
+{
+   "type": "dir", 
+   "name": "~", 
+   "contents": [
+      {
+         "type": "text", 
+         "name": "index.html", 
+         "contents": "<!doctype html>\n<html>\n<head>\n   <title>Clark DuVall</title>\n   <link rel=\"shortcut icon\" href=\"/images/favicon.ico\">\n   <meta name=\"description\" content=\"Clark DuVall's website o' fun!\">\n   <link type=\"text/css\" rel=\"stylesheet\" href=\"/css/style.css\">\n</head>\n<body>\n   <script type=\"text/javascript\" src=\"/commands/com1.js\"></script>\n   <script type=\"text/javascript\" src=\"/config/config.js\"></script>\n   <script type=\"text/javascript\" src=\"/js/jsterm.js\"></script>\n</body>\n</html>\n"
+      }
+   ]
+}
